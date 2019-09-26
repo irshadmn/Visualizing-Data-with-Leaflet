@@ -57,7 +57,7 @@ function createMap(earthquakes) {
     // Define streetmap and darkmap layers
 
     var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/tiles/256/{z}/{x}/{y}?" +
-        "access_token=pk.eyJ1Ijoia2FobWVkMTk5NiIsImEiOiJjanpwMm56MTAwNzE3M2RtYnJwZ3k2czZ4In0.xnFoQYtxa3ffO6tY_jHAmw");
+        "access_token=pk.eyJ1IjoiaXJzaGFkbW4iLCJhIjoiY2p6cG1wMjI3MG5vYjNnbnA0a3lyOTZ4ayJ9.vrnd1EGpiBNwD5W3Axxx4A");
 
 
 
